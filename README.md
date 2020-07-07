@@ -117,21 +117,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
-## :notes: Mongo Notes
-### Installation and Version Notes
-* App works with Mongodb version 3.6 -> Currently getting errors with 4.0 version
-* To install via homebrew run the following command ```brew install mongodb@3.6```
-* To run via homebrew run the following command ```brew services start mongodb@3.6```
-### General Notes
-* Start Mongo ```brew services start mongodb```
-* Access Shell ```mongo```
-* Shut Down Mongo ```brew services stop mongodb```
-* Restart Mongo ```brew services restart mongodb```
-* More Options ```brew info mongodb```
-:link: [Provided by Stack Overflow](https://stackoverflow.com/questions/18452023/installing-and-running-mongodb-on-osx)<br />
-
-### Mongo Commands
-:link: [CheatSheet from Open Tech Guides](https://www.opentechguides.com/how-to/article/mongodb/118/mongodb-cheatsheat.html)
 
 ## :notes: Helpful Commands and Notes
 * Generate new components to project ```ng generate component [componentName]```
